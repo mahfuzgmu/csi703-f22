@@ -1,5 +1,8 @@
 Still to do: develop code assessments, develop slides, develop demo notebooks, double check everything,
 send syllabus to CDS office.
+For code quizzes: create a graph, then show a code snippet with words removed. Student has to fill
+in missing words (multiple fill in the blanks)
+Try to make sure that graphs created to show and for quizzes explicitly conform to guiding principles.
 
 Lesson	Date
 Intro, admin, tech setup (bring your laptop)	22 Aug
