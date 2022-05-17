@@ -1,0 +1,17 @@
+Lesson	Date
+Intro, admin, tech setup (bring your laptop)	22 Aug
+The fundamental principles of effective data visualization	29 Aug
+LABOR DAY	5 Sep
+The fundamental principles of critically reviewing visualizations	12 Sep
+The technical aspects of choosing, gathering and preparing data for visualization	19 Sep
+Fundamental + technical: choosing and developing appropriate visualizations for specific questions	26 Sep
+Fundamental + technical: choosing and developing appropriate visualizations for specific questions, cont'd	3 Oct
+TUESDAY CLASS: Fundamental + technical: choosing and developing appropriate visualizations for specific questions, cont'd 	11 Oct
+Fundamental + technical: choosing and developing appropriate visualizations for specific questions, cont'd	17 Oct
+The fundamental principles of producing graphics that satisfy your audience's needs	24 Oct
+The technical aspects of producing web-based interactive visualizations	31 Oct
+The fundamental principles of producing scientific posters	7 Nov
+The fundamental principles of presenting your work	14 Nov
+Presentations	21 Nov
+Presentations	28 Nov
+READING DAY	5 Dec
