@@ -4,6 +4,18 @@ For code quizzes: create a graph, then show a code snippet with words removed. S
 in missing words (multiple fill in the blanks)
 Try to make sure that graphs created to show and for quizzes explicitly conform to guiding principles.
 
+NOTEBOOKS I NEED:
+- 22 Aug: set up, explore different packages
+- 29 Aug: style guide, examples of principles
+- 12 Sep: none
+- 19 Sep: different questions w same data, data prep
+- 26 Sep: comparisons
+- 3 Oct: distributions, trends
+- 11 Oct: relationships
+- 17 Oct: geospatial
+- 24 Oct: none
+- 31 Oct: web app (last notebook of semester)
+
 Lesson	Date
 Intro, admin, tech setup (bring your laptop)	22 Aug
 - assignment: submit requirements.txt
@@ -12,7 +24,7 @@ The fundamental principles of effective data visualization	29 Aug
 LABOR DAY	5 Sep
 The fundamental principles of critically reviewing visualizations	12 Sep
 - assignment: perform reviews on the graphics submitted before labor day
-The technical aspects of choosing, gathering and preparing data for visualization	19 Sep
+The technical aspects of choosing, gathering and preparing data for visualization, choosing viz for data and question	19 Sep
 - assignment: perform cleaning on the taxi data, answer questions related to cleaning and prep 
 Fundamental + technical: choosing and developing appropriate visualizations for specific questions	26 Sep
 - assignment: create a graphic that demonstrates [Comparison], upload graphic for peer review, answer code questions
@@ -41,9 +53,37 @@ How to get started:
 - what types of graphs go with each question?
 - what types of data are there? categorical, univariate, geospatial, multivariate, time series, text, social network
 - what types of graphs go with each type of data?
-
 - How do these things compare? (similarity / difference: size, shape, proportion, frequency, speed, performance, value)
 - How are these things linked? (pos / neg, strong / weak: relationships, actions, statistical)
 - How is this thing distributed? (statistical distributions)
 - Where are these things? (location, comparison across locations)
 - How did this thing change over time? (pos / neg: size, shape, frequency, speed, performance, value)
+
+Mixture of Gestalt's principles, and others in the readings:
+Figure ground: foreground, background, to draw attention to something
+Similarity: things that you want to be perceived as being together look similar
+Proximity / common region: things that you want people to associate with each other should be close
+Continuity: how does the eye follow lines on your graph
+Closure: the eye naturally perceives outlines or connections where there are none
+Focal point (highlight the message): the thing of importance should stand out (length, width, orientation, size, shape, color, position)
+Text should be readable
+Labels should be clear and readable, and close to data so reader doesn't need to switch back and forth 
+Scaling should support the message, not hinder it 
+Reduce chart junk: start with nothing and add what is needed
+Attribute your data
+Use title as key takeaway
+Use explainers to help readers understand and follow the graph
+Use color only where it helps, start with gray and add what is needed
+Keep shapes orderly (e.g. aligned)
+Tell a story with the data
+Minimize / eliminate lie factor
+Have a style guide (I need to make one for myself), maybe encode in Python as a function
+
+Style guide:
+Title:
+Axes:
+Labels:
+Legend:
+Colors:
+Plot types: (have code library)
+Seaborn: set theme(style, palette, ticks, axes.spines.(right, left, top, bottom), font, font scale, color codes, rc (custom param dictionary))
