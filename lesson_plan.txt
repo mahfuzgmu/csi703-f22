@@ -14,7 +14,7 @@ NOTEBOOKS I NEED:
 - 11 Oct: relationships
 - 17 Oct: geospatial
 - 24 Oct: none
-- 31 Oct: web app (last notebook of semester)
+- 31 Oct: web app (last notebook of semester) 
 
 Lesson	Date
 Intro, admin, tech setup (bring your laptop)	22 Aug
@@ -48,7 +48,7 @@ READING DAY	5 Dec
 
 format, color, text, labels, scaling, data density, chart junk, data integrity, attribution
 How to get started:
-- what is your purpose for creating the graph? to answer some question.
+- what is your purpose for creating the graphic? to answer some question.
 - what is the question? who what where when how why
 - what types of graphs go with each question?
 - what types of data are there? categorical, univariate, geospatial, multivariate, time series, text, social network
